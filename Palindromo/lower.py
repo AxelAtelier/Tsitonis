@@ -3,5 +3,3 @@ def lower(string):
     return string
 
 
-palabra = "AbuElo"
-print(lower(palabra))
