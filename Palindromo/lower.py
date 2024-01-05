@@ -3,5 +3,5 @@ def lower(string):
     return string
 
 
-palabra = AbuElo
+palabra = "AbuElo"
 print(lower(palabra))
